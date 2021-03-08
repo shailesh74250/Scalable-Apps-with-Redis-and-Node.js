@@ -1,0 +1,30 @@
+{
+  "name": "Scalable-Apps-with-Redis-and-Node.js",
+  "version": "1.0.0",
+  "description": "Design a simple application and turn it into the next Instagram Integrate utilities such as Redis, Socket.io, and Backbone to create Node.js web applications Learn to develop a complete web application right from the frontend to the backend in a streamlined manner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "connect-flash": "0.1.1",
+    "connect-redis": "1.4.7",
+    "ejs": "0.8.5",
+    "express": "4.6.1",
+    "express-partials": "0.2.0",
+    "redis": "0.10.1",
+    "stripe": "^8.137.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailesh74250/Scalable-Apps-with-Redis-and-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shailesh74250/Scalable-Apps-with-Redis-and-Node.js/issues"
+  },
+  "homepage": "https://github.com/shailesh74250/Scalable-Apps-with-Redis-and-Node.js#readme"
+}
